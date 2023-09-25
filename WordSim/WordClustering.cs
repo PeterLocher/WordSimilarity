@@ -25,7 +25,7 @@ namespace WordSim
             using (JsonWriter writer = new JsonTextWriter(streamWriter))
             {
                 writer.Formatting = Formatting.Indented;
-                serializer.Serialize(writer, wordClusters);
+                serializer.Serialize(writer, wordClusters.Dictionary);
             }
         }
         

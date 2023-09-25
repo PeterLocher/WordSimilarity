@@ -4,11 +4,11 @@ namespace WordSim
 {
     public class WordCluster
     {
-        private Dictionary<string, List<string>> _dictionary;
+        public Dictionary<string, List<string>> Dictionary { get; }
 
         public WordCluster(Dictionary<string, List<string>> dictionary)
         {
-            _dictionary = dictionary;
+            Dictionary = dictionary;
         }
     }
 }

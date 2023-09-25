@@ -1,1 +1,1887 @@
-{}
+{
+  "anden": [
+    "anden",
+    "anden",
+    "anden",
+    "andet",
+    "inden",
+    "manden",
+    "tanden"
+  ],
+  "andet": [
+    "anden",
+    "anden",
+    "anden",
+    "andet",
+    "landet",
+    "landet",
+    "sandet",
+    "vandet"
+  ],
+  "arme": [
+    "arm",
+    "arme",
+    "armen",
+    "varme",
+    "varme",
+    "varme"
+  ],
+  "bage": [
+    "bag",
+    "bage",
+    "bager",
+    "bager",
+    "bane",
+    "bange",
+    "bare",
+    "dage",
+    "kage",
+    "tage",
+    "tage"
+  ],
+  "bager": [
+    "bage",
+    "bager",
+    "bager",
+    "bøger",
+    "lager",
+    "tager",
+    "tager",
+    "tager"
+  ],
+  "bakke": [
+    "bakke",
+    "bakken",
+    "bakker",
+    "banke",
+    "jakke",
+    "pakke",
+    "pakke",
+    "takke"
+  ],
+  "band": [
+    "and",
+    "bad",
+    "bad",
+    "band",
+    "bane",
+    "bank",
+    "bund",
+    "land",
+    "mand",
+    "mand",
+    "sand",
+    "tand",
+    "vand"
+  ],
+  "bane": [
+    "bage",
+    "band",
+    "bane",
+    "bange",
+    "bank",
+    "banke",
+    "bare"
+  ],
+  "bange": [
+    "bage",
+    "bane",
+    "bange",
+    "banke",
+    "fange",
+    "gange",
+    "mange",
+    "sange"
+  ],
+  "banke": [
+    "bakke",
+    "bane",
+    "bange",
+    "bank",
+    "banke",
+    "banken",
+    "banker",
+    "banker"
+  ],
+  "bare": [
+    "bage",
+    "bane",
+    "bar",
+    "bar",
+    "bare",
+    "baren",
+    "barn",
+    "bore",
+    "bære",
+    "hare",
+    "vare"
+  ],
+  "barn": [
+    "bar",
+    "bar",
+    "bare",
+    "baren",
+    "barn",
+    "børn"
+  ],
+  "bede": [
+    "bede",
+    "bedre",
+    "boede",
+    "både",
+    "fede",
+    "kede",
+    "lede"
+  ],
+  "blad": [
+    "bad",
+    "bad",
+    "blad",
+    "blade",
+    "blod",
+    "blød",
+    "blød",
+    "glad"
+  ],
+  "bolde": [
+    "boede",
+    "bold",
+    "bolde",
+    "bolle",
+    "borde",
+    "holde",
+    "kolde"
+  ],
+  "bord": [
+    "bold",
+    "bor",
+    "bord",
+    "borde",
+    "bore",
+    "borg",
+    "jord",
+    "nord",
+    "ord",
+    "ord"
+  ],
+  "borde": [
+    "boede",
+    "bolde",
+    "bord",
+    "borde",
+    "bordet",
+    "bore",
+    "burde",
+    "burde"
+  ],
+  "bore": [
+    "bare",
+    "bor",
+    "bord",
+    "borde",
+    "bore",
+    "borer",
+    "borg",
+    "bære"
+  ],
+  "brød": [
+    "blød",
+    "blød",
+    "brød",
+    "brønd",
+    "grød",
+    "rød"
+  ],
+  "bund": [
+    "band",
+    "bund",
+    "hund",
+    "mund",
+    "mund",
+    "sund"
+  ],
+  "burde": [
+    "borde",
+    "burde",
+    "burde",
+    "turde",
+    "turde",
+    "turde"
+  ],
+  "bære": [
+    "bare",
+    "bore",
+    "bær",
+    "bære",
+    "bærer",
+    "kære",
+    "lære",
+    "pære",
+    "være",
+    "være",
+    "ære"
+  ],
+  "bærer": [
+    "borer",
+    "bære",
+    "bærer",
+    "lærer",
+    "lærer",
+    "lærer"
+  ],
+  "dage": [
+    "bage",
+    "dag",
+    "dage",
+    "dagen",
+    "date",
+    "kage",
+    "tage",
+    "tage"
+  ],
+  "dens": [
+    "dans",
+    "den",
+    "den",
+    "den",
+    "dens",
+    "mens"
+  ],
+  "dine": [
+    "din",
+    "din",
+    "dine",
+    "dyne",
+    "dyne",
+    "fine",
+    "mine",
+    "sine"
+  ],
+  "dyre": [
+    "dyne",
+    "dyne",
+    "dyr",
+    "dyre",
+    "dyret",
+    "dyrt",
+    "myre",
+    "syre"
+  ],
+  "este": [
+    "est",
+    "este",
+    "feste",
+    "heste",
+    "meste",
+    "ste"
+  ],
+  "fang": [
+    "fag",
+    "fang",
+    "fange",
+    "gang",
+    "lang",
+    "sang",
+    "sang",
+    "tang"
+  ],
+  "fange": [
+    "bange",
+    "fang",
+    "fange",
+    "fanger",
+    "gange",
+    "mange",
+    "sange"
+  ],
+  "fatte": [
+    "faste",
+    "fatte",
+    "fatter",
+    "katte",
+    "satte",
+    "satte"
+  ],
+  "fede": [
+    "bede",
+    "fed",
+    "fede",
+    "fedt",
+    "kede",
+    "lede"
+  ],
+  "fest": [
+    "est",
+    "fedt",
+    "fest",
+    "feste",
+    "hest",
+    "mest",
+    "vest",
+    "vest"
+  ],
+  "feste": [
+    "este",
+    "faste",
+    "femte",
+    "fest",
+    "feste",
+    "festen",
+    "fester",
+    "heste",
+    "meste"
+  ],
+  "fine": [
+    "dine",
+    "fin",
+    "finde",
+    "fine",
+    "fint",
+    "fire",
+    "mine",
+    "sine"
+  ],
+  "gade": [
+    "gad",
+    "gade",
+    "gaden",
+    "gader",
+    "gave",
+    "gide",
+    "glade",
+    "gode"
+  ],
+  "gader": [
+    "gade",
+    "gaden",
+    "gader",
+    "gider",
+    "guder",
+    "hader"
+  ],
+  "gang": [
+    "fang",
+    "gang",
+    "gange",
+    "lang",
+    "sang",
+    "sang",
+    "tang"
+  ],
+  "gange": [
+    "bange",
+    "fange",
+    "gang",
+    "gange",
+    "mange",
+    "sange"
+  ],
+  "gave": [
+    "gade",
+    "gave",
+    "have",
+    "have",
+    "lave",
+    "lave",
+    "mave"
+  ],
+  "gide": [
+    "gade",
+    "gide",
+    "gider",
+    "gode",
+    "ide",
+    "lide",
+    "side",
+    "side",
+    "vide"
+  ],
+  "gider": [
+    "gader",
+    "gide",
+    "gider",
+    "giver",
+    "guder",
+    "sider"
+  ],
+  "glad": [
+    "blad",
+    "gad",
+    "glad",
+    "glade",
+    "glas",
+    "glat"
+  ],
+  "glæde": [
+    "glade",
+    "glæde",
+    "glæden",
+    "glæder",
+    "græde",
+    "klæde"
+  ],
+  "gode": [
+    "gade",
+    "gide",
+    "god",
+    "gode",
+    "godt",
+    "godt",
+    "godt"
+  ],
+  "gris": [
+    "grim",
+    "gris",
+    "grise",
+    "græs",
+    "pris",
+    "ris"
+  ],
+  "guld": [
+    "fuld",
+    "gud",
+    "gul",
+    "gul",
+    "guld",
+    "gule",
+    "gult",
+    "gulv",
+    "uld"
+  ],
+  "gule": [
+    "gul",
+    "gul",
+    "guld",
+    "gule",
+    "gult",
+    "gulv",
+    "jule"
+  ],
+  "gult": [
+    "gul",
+    "gul",
+    "guld",
+    "gule",
+    "gult",
+    "gulv"
+  ],
+  "gulv": [
+    "gul",
+    "gul",
+    "guld",
+    "gule",
+    "gult",
+    "gulv",
+    "ulv"
+  ],
+  "gård": [
+    "går",
+    "går",
+    "går",
+    "gård",
+    "hård",
+    "hård",
+    "hård"
+  ],
+  "gøre": [
+    "gør",
+    "gøre",
+    "høre",
+    "røre",
+    "øre",
+    "øre",
+    "øre",
+    "øre"
+  ],
+  "hare": [
+    "bare",
+    "har",
+    "hare",
+    "have",
+    "have",
+    "havre",
+    "høre",
+    "vare"
+  ],
+  "have": [
+    "gave",
+    "hare",
+    "hav",
+    "havde",
+    "have",
+    "have",
+    "haven",
+    "havet",
+    "havn",
+    "havre",
+    "lave",
+    "lave",
+    "mave"
+  ],
+  "haven": [
+    "have",
+    "have",
+    "haven",
+    "havet",
+    "havn",
+    "havnen",
+    "maven"
+  ],
+  "havn": [
+    "han",
+    "hav",
+    "have",
+    "have",
+    "haven",
+    "havn",
+    "navn"
+  ],
+  "hele": [
+    "dele",
+    "dele",
+    "hel",
+    "hele",
+    "helt",
+    "helt"
+  ],
+  "hende": [
+    "hende",
+    "hendes",
+    "henne",
+    "hente",
+    "hunde",
+    "sende",
+    "vende"
+  ],
+  "hente": [
+    "hende",
+    "henne",
+    "hente",
+    "henter",
+    "heste",
+    "mente"
+  ],
+  "hest": [
+    "est",
+    "fest",
+    "helt",
+    "helt",
+    "hest",
+    "heste",
+    "mest",
+    "vest",
+    "vest"
+  ],
+  "heste": [
+    "este",
+    "feste",
+    "hente",
+    "hest",
+    "heste",
+    "hesten",
+    "meste"
+  ],
+  "hund": [
+    "bund",
+    "hud",
+    "hun",
+    "hund",
+    "hunde",
+    "hånd",
+    "mund",
+    "mund",
+    "sund"
+  ],
+  "huse": [
+    "hue",
+    "hus",
+    "huse",
+    "huset",
+    "husk",
+    "huske"
+  ],
+  "hver": [
+    "her",
+    "hvem",
+    "hver",
+    "hvert",
+    "hvor",
+    "hvor",
+    "over",
+    "over",
+    "over",
+    "øver"
+  ],
+  "hvid": [
+    "hvad",
+    "hvad",
+    "hvid",
+    "hvide",
+    "hvidt",
+    "hvis"
+  ],
+  "hård": [
+    "gård",
+    "hånd",
+    "hår",
+    "hård",
+    "hård",
+    "hård",
+    "hårde",
+    "hårdt"
+  ],
+  "hårdt": [
+    "hård",
+    "hård",
+    "hård",
+    "hårde",
+    "hårdt",
+    "håret"
+  ],
+  "høje": [
+    "høj",
+    "høje",
+    "højre",
+    "højt",
+    "højt",
+    "høre",
+    "øje"
+  ],
+  "høre": [
+    "gøre",
+    "hare",
+    "høje",
+    "højre",
+    "høre",
+    "hører",
+    "røre",
+    "øre",
+    "øre",
+    "øre",
+    "øre"
+  ],
+  "inde": [
+    "finde",
+    "ide",
+    "ind",
+    "ind",
+    "inde",
+    "inden",
+    "vinde"
+  ],
+  "inden": [
+    "anden",
+    "anden",
+    "anden",
+    "inde",
+    "inden",
+    "ingen",
+    "kinden"
+  ],
+  "kage": [
+    "bage",
+    "dage",
+    "kage",
+    "kagen",
+    "koge",
+    "koge",
+    "tage",
+    "tage"
+  ],
+  "kaste": [
+    "faste",
+    "kasse",
+    "kast",
+    "kaste",
+    "kaster",
+    "katte"
+  ],
+  "katte": [
+    "fatte",
+    "kaste",
+    "katte",
+    "katten",
+    "satte",
+    "satte"
+  ],
+  "kinder": [
+    "finder",
+    "kender",
+    "kinden",
+    "kinder",
+    "kvinder",
+    "vinder"
+  ],
+  "koge": [
+    "kage",
+    "koge",
+    "koge",
+    "koger",
+    "kogt",
+    "kogt",
+    "kogte",
+    "kogte",
+    "kone",
+    "konge"
+  ],
+  "kogt": [
+    "koge",
+    "koge",
+    "kogt",
+    "kogt",
+    "kogte",
+    "kogte",
+    "kort",
+    "togt"
+  ],
+  "kogte": [
+    "koge",
+    "koge",
+    "kogt",
+    "kogt",
+    "kogte",
+    "kogte",
+    "korte"
+  ],
+  "kort": [
+    "kogt",
+    "kogt",
+    "korn",
+    "kort",
+    "korte",
+    "sort"
+  ],
+  "kære": [
+    "bære",
+    "kære",
+    "lære",
+    "pære",
+    "være",
+    "være",
+    "ære"
+  ],
+  "købe": [
+    "købe",
+    "køber",
+    "køber",
+    "købt",
+    "købte",
+    "løbe"
+  ],
+  "køber": [
+    "købe",
+    "køber",
+    "køber",
+    "køer",
+    "kører",
+    "løber"
+  ],
+  "køer": [
+    "køber",
+    "køber",
+    "køer",
+    "kør",
+    "kører",
+    "øer"
+  ],
+  "kører": [
+    "hører",
+    "køber",
+    "køber",
+    "køer",
+    "kører",
+    "ører"
+  ],
+  "lagen": [
+    "dagen",
+    "kagen",
+    "lagen",
+    "lager",
+    "legen",
+    "lægen"
+  ],
+  "lager": [
+    "bager",
+    "bager",
+    "lagen",
+    "lager",
+    "laver",
+    "leger",
+    "tager",
+    "tager",
+    "tager"
+  ],
+  "land": [
+    "and",
+    "band",
+    "land",
+    "lande",
+    "lang",
+    "mand",
+    "mand",
+    "sand",
+    "tand",
+    "vand"
+  ],
+  "lande": [
+    "blande",
+    "land",
+    "lande",
+    "landet",
+    "landet",
+    "pande"
+  ],
+  "landet": [
+    "andet",
+    "lande",
+    "landet",
+    "landet",
+    "sandet",
+    "vandet"
+  ],
+  "lang": [
+    "fang",
+    "gang",
+    "land",
+    "lang",
+    "langt",
+    "sang",
+    "sang",
+    "tang"
+  ],
+  "lave": [
+    "gave",
+    "have",
+    "have",
+    "larve",
+    "lav",
+    "lava",
+    "lave",
+    "lave",
+    "laver",
+    "lavt",
+    "mave",
+    "slave"
+  ],
+  "lede": [
+    "bede",
+    "fede",
+    "kede",
+    "led",
+    "lede",
+    "leder",
+    "leder",
+    "ledt",
+    "ledte",
+    "lide",
+    "lyde"
+  ],
+  "leder": [
+    "keder",
+    "lede",
+    "leder",
+    "leder",
+    "leger",
+    "lyder"
+  ],
+  "ledt": [
+    "fedt",
+    "led",
+    "lede",
+    "ledt",
+    "ledte",
+    "lidt"
+  ],
+  "lide": [
+    "gide",
+    "ide",
+    "lede",
+    "lide",
+    "lidt",
+    "lyde",
+    "side",
+    "side",
+    "vide"
+  ],
+  "ligge": [
+    "kigge",
+    "ligge",
+    "ligger",
+    "ligget",
+    "ligne",
+    "lægge",
+    "lægge"
+  ],
+  "ligger": [
+    "kigger",
+    "ligge",
+    "ligger",
+    "ligget",
+    "lægger",
+    "lægger"
+  ],
+  "læge": [
+    "læge",
+    "lægen",
+    "lægge",
+    "lægge",
+    "længe",
+    "lære",
+    "læse"
+  ],
+  "lægge": [
+    "ligge",
+    "læge",
+    "lægge",
+    "lægge",
+    "lægger",
+    "lægger",
+    "længe"
+  ],
+  "lære": [
+    "bære",
+    "kære",
+    "læge",
+    "lære",
+    "lærer",
+    "lærer",
+    "lærer",
+    "læse",
+    "pære",
+    "være",
+    "være",
+    "ære"
+  ],
+  "lærer": [
+    "bærer",
+    "lære",
+    "lærer",
+    "lærer",
+    "lærer",
+    "læser"
+  ],
+  "læse": [
+    "blæse",
+    "læge",
+    "lære",
+    "læse",
+    "læser",
+    "løse",
+    "næse"
+  ],
+  "læser": [
+    "blæser",
+    "lærer",
+    "lærer",
+    "lærer",
+    "læse",
+    "læser",
+    "løser"
+  ],
+  "løbe": [
+    "købe",
+    "løb",
+    "løb",
+    "løbe",
+    "løber",
+    "løse"
+  ],
+  "mand": [
+    "and",
+    "band",
+    "land",
+    "mad",
+    "man",
+    "mand",
+    "mand",
+    "mund",
+    "mund",
+    "mænd",
+    "sand",
+    "tand",
+    "vand"
+  ],
+  "manden": [
+    "anden",
+    "anden",
+    "anden",
+    "maden",
+    "mandel",
+    "manden",
+    "mandens",
+    "tanden"
+  ],
+  "mave": [
+    "gave",
+    "have",
+    "have",
+    "lave",
+    "lave",
+    "male",
+    "mave",
+    "maven"
+  ],
+  "mene": [
+    "men",
+    "mene",
+    "mener",
+    "mens",
+    "mente",
+    "menu",
+    "mere",
+    "mine",
+    "måne"
+  ],
+  "mest": [
+    "est",
+    "fest",
+    "hest",
+    "mest",
+    "meste",
+    "vest",
+    "vest"
+  ],
+  "meste": [
+    "este",
+    "feste",
+    "heste",
+    "mente",
+    "mest",
+    "meste"
+  ],
+  "mine": [
+    "dine",
+    "fine",
+    "mene",
+    "min",
+    "min",
+    "mine",
+    "måne",
+    "sine"
+  ],
+  "mund": [
+    "bund",
+    "hund",
+    "mand",
+    "mand",
+    "mund",
+    "mund",
+    "munk",
+    "mænd",
+    "sund"
+  ],
+  "over": [
+    "hver",
+    "over",
+    "over",
+    "over",
+    "sover",
+    "øver"
+  ],
+  "pakke": [
+    "bakke",
+    "jakke",
+    "pakke",
+    "pakke",
+    "pakken",
+    "takke"
+  ],
+  "passe": [
+    "kasse",
+    "passe",
+    "passer",
+    "passer",
+    "passer",
+    "pause"
+  ],
+  "prøve": [
+    "prøv",
+    "prøve",
+    "prøve",
+    "prøve",
+    "prøver",
+    "prøvet"
+  ],
+  "pære": [
+    "bære",
+    "kære",
+    "lære",
+    "pære",
+    "være",
+    "være",
+    "ære"
+  ],
+  "regne": [
+    "egne",
+    "regn",
+    "regne",
+    "regnen",
+    "regner",
+    "tegne"
+  ],
+  "røde": [
+    "døde",
+    "jøde",
+    "rød",
+    "røde",
+    "rødt",
+    "røre",
+    "søde"
+  ],
+  "røre": [
+    "gøre",
+    "høre",
+    "røde",
+    "røre",
+    "øre",
+    "øre",
+    "øre",
+    "øre"
+  ],
+  "salt": [
+    "alt",
+    "alt",
+    "saft",
+    "sagt",
+    "salat",
+    "salt",
+    "sat",
+    "sat"
+  ],
+  "sand": [
+    "and",
+    "band",
+    "land",
+    "mand",
+    "mand",
+    "sad",
+    "sand",
+    "sang",
+    "sang",
+    "sund",
+    "tand",
+    "vand"
+  ],
+  "sang": [
+    "fang",
+    "gang",
+    "lang",
+    "sand",
+    "sang",
+    "sang",
+    "sange",
+    "seng",
+    "tang"
+  ],
+  "sange": [
+    "bange",
+    "fange",
+    "gange",
+    "mange",
+    "sang",
+    "sang",
+    "sange",
+    "sangen",
+    "sanger",
+    "slange",
+    "synge"
+  ],
+  "satte": [
+    "fatte",
+    "katte",
+    "satte",
+    "satte",
+    "sætte",
+    "sætte"
+  ],
+  "score": [
+    "scor",
+    "scor",
+    "score",
+    "scorer",
+    "scorer",
+    "store"
+  ],
+  "sende": [
+    "hende",
+    "sende",
+    "sender",
+    "sendt",
+    "sendte",
+    "vende"
+  ],
+  "sidde": [
+    "ridde",
+    "sidde",
+    "sidder",
+    "sidder",
+    "side",
+    "side"
+  ],
+  "side": [
+    "gide",
+    "ide",
+    "lide",
+    "sid",
+    "sidde",
+    "side",
+    "side",
+    "siden",
+    "siden",
+    "sider",
+    "sige",
+    "sine",
+    "søde",
+    "vide"
+  ],
+  "sider": [
+    "gider",
+    "sidder",
+    "sidder",
+    "side",
+    "side",
+    "siden",
+    "siden",
+    "sider",
+    "siger"
+  ],
+  "sige": [
+    "pige",
+    "rige",
+    "side",
+    "side",
+    "sig",
+    "sige",
+    "siger",
+    "sine",
+    "stige"
+  ],
+  "sikke": [
+    "ikke",
+    "ikke",
+    "sikke",
+    "sikker",
+    "sikker",
+    "sikre",
+    "sikre"
+  ],
+  "sikker": [
+    "sikke",
+    "sikker",
+    "sikker",
+    "sikkert",
+    "sikkert",
+    "sokker",
+    "sukker"
+  ],
+  "sine": [
+    "dine",
+    "fine",
+    "mine",
+    "side",
+    "side",
+    "sige",
+    "sin",
+    "sine",
+    "sne"
+  ],
+  "skab": [
+    "skab",
+    "skabe",
+    "skabt",
+    "skal",
+    "skat",
+    "skat",
+    "skib"
+  ],
+  "skabe": [
+    "skab",
+    "skabe",
+    "skaber",
+    "skabet",
+    "skabt",
+    "skabte"
+  ],
+  "skabt": [
+    "skab",
+    "skabe",
+    "skabet",
+    "skabt",
+    "skabte",
+    "skat",
+    "skat"
+  ],
+  "skat": [
+    "kat",
+    "sat",
+    "sat",
+    "skab",
+    "skabt",
+    "skal",
+    "skat",
+    "skat"
+  ],
+  "sker": [
+    "ser",
+    "ser",
+    "ske",
+    "sker",
+    "skyer",
+    "skør",
+    "sner",
+    "syer"
+  ],
+  "skille": [
+    "skille",
+    "skilles",
+    "skills",
+    "skilte",
+    "spille",
+    "stille"
+  ],
+  "skør": [
+    "kør",
+    "sker",
+    "skøn",
+    "skør",
+    "skørt",
+    "smør"
+  ],
+  "slår": [
+    "lår",
+    "slå",
+    "slå",
+    "slå",
+    "slå",
+    "slår",
+    "slår",
+    "slår",
+    "står",
+    "står"
+  ],
+  "sner": [
+    "ser",
+    "ser",
+    "sker",
+    "sne",
+    "sner",
+    "snor",
+    "syer"
+  ],
+  "sten": [
+    "sen",
+    "ste",
+    "sted",
+    "sted",
+    "sten",
+    "stuen",
+    "søen"
+  ],
+  "stod": [
+    "sted",
+    "sted",
+    "stod",
+    "stol",
+    "stop",
+    "stor"
+  ],
+  "stol": [
+    "sol",
+    "stod",
+    "stol",
+    "stole",
+    "stop",
+    "stor"
+  ],
+  "stop": [
+    "stod",
+    "stol",
+    "stop",
+    "stor",
+    "top",
+    "top"
+  ],
+  "stor": [
+    "scor",
+    "scor",
+    "snor",
+    "stod",
+    "stol",
+    "stop",
+    "stor",
+    "store",
+    "storm",
+    "stort",
+    "står",
+    "står"
+  ],
+  "store": [
+    "score",
+    "stole",
+    "stor",
+    "store",
+    "storm",
+    "stort"
+  ],
+  "stort": [
+    "sort",
+    "sport",
+    "stor",
+    "store",
+    "storm",
+    "stort"
+  ],
+  "står": [
+    "slår",
+    "slår",
+    "slår",
+    "stor",
+    "stå",
+    "stå",
+    "står",
+    "står"
+  ],
+  "sukker": [
+    "lukker",
+    "sikker",
+    "sikker",
+    "slukker",
+    "sokker",
+    "sukker"
+  ],
+  "sund": [
+    "bund",
+    "hund",
+    "mund",
+    "mund",
+    "sand",
+    "sund",
+    "sundt"
+  ],
+  "svare": [
+    "svane",
+    "svar",
+    "svare",
+    "svarer",
+    "svaret",
+    "svære",
+    "vare"
+  ],
+  "svære": [
+    "svare",
+    "svær",
+    "sværd",
+    "svære",
+    "svært",
+    "være",
+    "være"
+  ],
+  "syer": [
+    "ser",
+    "ser",
+    "sker",
+    "skyer",
+    "sner",
+    "syer"
+  ],
+  "sætte": [
+    "hætte",
+    "jætte",
+    "mætte",
+    "satte",
+    "satte",
+    "sætte",
+    "sætte",
+    "sætter",
+    "sætter"
+  ],
+  "sætter": [
+    "fætter",
+    "nætter",
+    "sætte",
+    "sætte",
+    "sætter",
+    "sætter"
+  ],
+  "søde": [
+    "døde",
+    "jøde",
+    "røde",
+    "side",
+    "side",
+    "sød",
+    "søde"
+  ],
+  "tabe": [
+    "abe",
+    "tabe",
+    "tabt",
+    "tabte",
+    "tage",
+    "tage",
+    "tale"
+  ],
+  "tage": [
+    "bage",
+    "dage",
+    "etage",
+    "kage",
+    "tabe",
+    "tage",
+    "tage",
+    "tager",
+    "tager",
+    "tager",
+    "taget",
+    "tale",
+    "tåge"
+  ],
+  "tager": [
+    "bager",
+    "bager",
+    "lager",
+    "tage",
+    "tage",
+    "tager",
+    "tager",
+    "tager",
+    "taget",
+    "taler",
+    "taler"
+  ],
+  "taget": [
+    "tage",
+    "tage",
+    "tager",
+    "tager",
+    "tager",
+    "taget",
+    "toget",
+    "tåget"
+  ],
+  "takke": [
+    "bakke",
+    "jakke",
+    "pakke",
+    "pakke",
+    "takke",
+    "taske",
+    "tykke"
+  ],
+  "tale": [
+    "male",
+    "tabe",
+    "tage",
+    "tage",
+    "tal",
+    "tale",
+    "taler",
+    "taler",
+    "talte",
+    "tavle"
+  ],
+  "taler": [
+    "maler",
+    "tager",
+    "tager",
+    "tager",
+    "tale",
+    "taler",
+    "taler"
+  ],
+  "tand": [
+    "and",
+    "band",
+    "land",
+    "mand",
+    "mand",
+    "sand",
+    "tand",
+    "tang",
+    "tynd",
+    "vand"
+  ],
+  "tang": [
+    "fang",
+    "gang",
+    "lang",
+    "sang",
+    "sang",
+    "tand",
+    "tang",
+    "ting"
+  ],
+  "taske": [
+    "raske",
+    "takke",
+    "taske",
+    "tasken",
+    "tasker",
+    "tyske",
+    "vaske"
+  ],
+  "togt": [
+    "kogt",
+    "kogt",
+    "tog",
+    "tog",
+    "toget",
+    "togt",
+    "tomt"
+  ],
+  "tænde": [
+    "tænde",
+    "tænder",
+    "tænder",
+    "tændt",
+    "tændte",
+    "tænke",
+    "tønde"
+  ],
+  "tænder": [
+    "hænder",
+    "tænde",
+    "tænder",
+    "tænder",
+    "tænker",
+    "ænder"
+  ],
+  "uden": [
+    "den",
+    "den",
+    "den",
+    "huden",
+    "ude",
+    "uden"
+  ],
+  "vand": [
+    "and",
+    "band",
+    "land",
+    "mand",
+    "mand",
+    "sand",
+    "tand",
+    "vand",
+    "vandt",
+    "vind"
+  ],
+  "vandet": [
+    "andet",
+    "landet",
+    "landet",
+    "sandet",
+    "vander",
+    "vandet",
+    "vandt",
+    "vundet"
+  ],
+  "vare": [
+    "bare",
+    "hare",
+    "svare",
+    "var",
+    "vare",
+    "varen",
+    "varer",
+    "varer",
+    "varm",
+    "varm",
+    "varme",
+    "varme",
+    "varme",
+    "være",
+    "være"
+  ],
+  "varer": [
+    "svarer",
+    "vare",
+    "varen",
+    "varer",
+    "varer",
+    "varmer"
+  ],
+  "varm": [
+    "arm",
+    "var",
+    "vare",
+    "varm",
+    "varm",
+    "varme",
+    "varme",
+    "varme",
+    "varmt"
+  ],
+  "varme": [
+    "arme",
+    "vare",
+    "varm",
+    "varm",
+    "varme",
+    "varme",
+    "varme",
+    "varmer",
+    "varmet",
+    "varmt"
+  ],
+  "varmer": [
+    "varer",
+    "varer",
+    "varme",
+    "varme",
+    "varme",
+    "varmer",
+    "varmet"
+  ],
+  "varmet": [
+    "varme",
+    "varme",
+    "varme",
+    "varmer",
+    "varmet",
+    "varmt"
+  ],
+  "varmt": [
+    "varm",
+    "varm",
+    "varme",
+    "varme",
+    "varme",
+    "varmet",
+    "varmt"
+  ],
+  "vender": [
+    "kender",
+    "sender",
+    "vander",
+    "vende",
+    "vender",
+    "venner",
+    "venter",
+    "vinder"
+  ],
+  "venter": [
+    "center",
+    "henter",
+    "vender",
+    "venner",
+    "venter",
+    "vinter"
+  ],
+  "vest": [
+    "est",
+    "fest",
+    "hest",
+    "mest",
+    "vest",
+    "vest"
+  ],
+  "vide": [
+    "gide",
+    "hvide",
+    "ide",
+    "lide",
+    "side",
+    "side",
+    "vide",
+    "vinde",
+    "våde"
+  ],
+  "vild": [
+    "ild",
+    "sild",
+    "vil",
+    "vild",
+    "vild",
+    "vildt",
+    "vind"
+  ],
+  "vind": [
+    "ind",
+    "ind",
+    "kind",
+    "pind",
+    "vand",
+    "vild",
+    "vild",
+    "vin",
+    "vind",
+    "vinde"
+  ],
+  "vinde": [
+    "finde",
+    "inde",
+    "kvinde",
+    "vende",
+    "vide",
+    "vind",
+    "vinde",
+    "vinder",
+    "vindue",
+    "vinge"
+  ],
+  "vinder": [
+    "finder",
+    "kinder",
+    "kvinder",
+    "vander",
+    "vender",
+    "vinde",
+    "vinder",
+    "vinter"
+  ],
+  "være": [
+    "bære",
+    "kære",
+    "lære",
+    "pære",
+    "svære",
+    "vare",
+    "være",
+    "være",
+    "været",
+    "værk",
+    "ære"
+  ],
+  "ænder": [
+    "hænder",
+    "tænder",
+    "tænder",
+    "under",
+    "æder",
+    "ænder",
+    "ændrer"
+  ],
+  "ører": [
+    "hører",
+    "kører",
+    "øer",
+    "øre",
+    "øre",
+    "øre",
+    "øre",
+    "ører",
+    "øret",
+    "øver"
+  ],
+  "øret": [
+    "ret",
+    "øjet",
+    "øre",
+    "øre",
+    "øre",
+    "øre",
+    "ører",
+    "øret"
+  ],
+  "øver": [
+    "hver",
+    "over",
+    "over",
+    "over",
+    "øer",
+    "ører",
+    "øve",
+    "øver"
+  ]
+}
