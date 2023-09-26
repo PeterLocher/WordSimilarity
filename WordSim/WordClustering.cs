@@ -19,7 +19,7 @@ namespace WordSim
         public static void ClusterDuolingoWords()
         {
             var words = LoadWords("in/words.csv");
-            var wordClusters = FindWordClusters(words);
+            var wordClusters = FindWordClusters(words, 4, 2, 5);
             var serializer = new Newtonsoft.Json.JsonSerializer();
             using (StreamWriter streamWriter = new StreamWriter("out/word_clusters.json"))
             using (JsonWriter writer = new JsonTextWriter(streamWriter))
@@ -37,17 +37,24 @@ namespace WordSim
             return words;
         }
 
-        private static WordCluster FindWordClusters(string[] words)
+        
+        /*
+         * Computes a dictionary of strings in 'words' longer than minWordLength mapped to a list of their
+         * similar words, when there are at least minClusterSize of them.
+         * Similar words are words within a StringMetric Distance limited by the internalClusterDistance parameter.
+         * Returns the dictionary wrapped by the WordCluster class.
+         */
+        private static WordCluster FindWordClusters(string[] words, int minWordLength, int internalClusterDistance, int minClusterSize)
         {
             var wordClusters = new Dictionary<string, List<string>>();
 
             foreach (var word in words)
             {
-                if (word.Length < 4 || wordClusters.ContainsKey(word)) continue;
+                if (word.Length < minWordLength || wordClusters.ContainsKey(word)) continue;
                 var wordCluster = new List<string>();
                 foreach (var word2 in words)
                 {
-                    if (Distance(word, word2) < 2)
+                    if (Distance(word, word2) < internalClusterDistance)
                     {
                         wordCluster.Add(word2);
                     }
@@ -56,7 +63,7 @@ namespace WordSim
                 wordClusters[word] = wordCluster;
             }
 
-            wordClusters = wordClusters.Where(pair => pair.Value.Count > 5)
+            wordClusters = wordClusters.Where(pair => pair.Value.Count > minClusterSize)
                 .ToDictionary(pair => pair.Key, pair => pair.Value);
             return new WordCluster(wordClusters);
         }
